@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/BlackNexys/WebComponentsTest#readme",
   "dependencies": {
+    "axios": "^0.27.2",
+    "jimp": "^0.16.1",
+    "lit": "^2.2.3",
     "path": "^0.12.7",
-    "webpack": "^5.72.1"
+    "webpack": "^5.72.1",
+    "zlib": "^1.0.5"
   },
   "devDependencies": {
     "ts-loader": "^9.3.0",
